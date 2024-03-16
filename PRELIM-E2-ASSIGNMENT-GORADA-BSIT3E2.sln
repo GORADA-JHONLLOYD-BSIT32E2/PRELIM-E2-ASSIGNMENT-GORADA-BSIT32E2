@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PRELIM-E2-ASSIGNMENT-GORADA-BSIT3E2", "PRELIM-E2-ASSIGNMENT-GORADA-BSIT3E2\PRELIM-E2-ASSIGNMENT-GORADA-BSIT3E2.csproj", "{D922FB75-AE8B-4588-8ECD-C9D87BA5B124}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D922FB75-AE8B-4588-8ECD-C9D87BA5B124}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D922FB75-AE8B-4588-8ECD-C9D87BA5B124}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D922FB75-AE8B-4588-8ECD-C9D87BA5B124}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D922FB75-AE8B-4588-8ECD-C9D87BA5B124}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9881F708-8BB3-4E85-BABC-4E66700AD3B5}
+	EndGlobalSection
+EndGlobal
